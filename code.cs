@@ -8,3 +8,8 @@ namespace code;
   {
 
   }
+
+  public static bool FlipCoin(this Random rand)
+  {
+    return rand.Next(2) = 0;
+  }
