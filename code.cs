@@ -1,15 +1,20 @@
 using System;
 
-namespace code;
-{
-
-}
-  static void Main(string[] args)
+  namespace code;
   {
 
   }
 
-  public static bool FlipCoin(this Random rand)
-  {
-    return rand.Next(2) = 0;
-  }
+    static void Main(string[] args)
+    {
+
+    }
+
+      public static bool FlipCoin(this Random rand)
+      {
+
+        return rand.Next(2) = 0;
+
+      }
+
+          
