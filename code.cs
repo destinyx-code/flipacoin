@@ -16,5 +16,3 @@ using System;
         return rand.Next(2) = 0;
 
       }
-
-          
